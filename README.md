@@ -34,3 +34,6 @@ The notebook uses OpenCV, scikit-image, scikit-learn, pandas, and matplotlib.
 
 ## Additional file
 - `Project_Panopticon_Exam_Proctoring.ipynb` has been added to this repository.
+
+## Release notes
+- `RELEASE_NOTES_1.130.0.md` contains release notes for version `1.130.0`.
